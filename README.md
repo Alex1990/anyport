@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Alex1990/anyport.svg?branch=master)](https://travis-ci.org/Alex1990/anyport)
+[![Coverage Status](https://coveralls.io/repos/github/Alex1990/anyport/badge.svg?branch=master)](https://coveralls.io/github/Alex1990/anyport?branch=master)
+
 # anyport
 
 A command line tool to get a list of available ports.
