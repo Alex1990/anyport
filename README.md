@@ -1,6 +1,6 @@
 # anyport
 
-A command line tool to get the available ports.
+A command line tool to get a list of available ports.
 
 ## Installation
 

@@ -1,7 +1,7 @@
 {
   "name": "anyport",
   "version": "0.1.0",
-  "description": "A command line tool to get the available ports",
+  "description": "A command line tool to get a list of available ports",
   "main": "lib/index.js",
   "bin": {
     "anyport": "./bin/anyport.js"
